@@ -9,5 +9,5 @@ function happyHolidaysTo(name)
   return `Happy Holidays, ${name}!`;
 }
 
-happyHolidaysTo(Cliff);
+happyHolidaysTo('Cliff');
 
